@@ -1,0 +1,1 @@
+Low-Level Design(LLD) is a component-level design process that follows a step-by-step refinement process. Low-level design is created based on the high-level design. LLD descires the class diagrams with the methods and relations betweeen classes and program specs. It describes the modules so that the porgrammer can directly code the program from the document.
