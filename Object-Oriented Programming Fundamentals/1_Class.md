@@ -9,7 +9,7 @@ Think of a class as a recipe. It tells you what ingredients (fields) and instruc
 - Defines attributes as variables.
 - Defines methods (functions inside a class) to operate on that data.
 
-```
+```cpp
 class Car {
 private:
     // Attributes
