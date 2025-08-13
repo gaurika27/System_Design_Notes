@@ -12,6 +12,7 @@ Consider a remote control. It exposes a standard set of buttons:
  - ```pause()```
  - ```volumeUp()```
  - ```powerOff()```
+
 The person using the remote doesn’t care whether it controls a TV, a soundbar, or a projector. The interface remains the same, but the underlying device behaves differently.
 
 This is exactly how interfaces work in software design.
